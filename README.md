@@ -1,66 +1,60 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1> Hi, I'm Saúl González! <img src="https://media.tenor.com/elhnQfoqWfAAAAAi/raccon-bigracc.gif" width="30"></h1>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Enrique53xD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Enrique53xD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
+<img align='right' src="https://media.tenor.com/NkYHbpuuLxsAAAAi/racoon-pedro.gif" width="230">
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
+<p >
+  
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=4lk7r9kx7z23339wyehcuxz7m&redirect=true">
+  
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=4lk7r9kx7z23339wyehcuxz7m&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false"  align="right">
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+  
+</a>
+ 
+  <em >
+    Student at <a href="https://umg.edu.gt">Universidad Mariano Gálvez</a>
+    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+    </br>
+    Developing my Daily Planner iOS App <a href="https://github.com/Enrique53xD/Flowing">Flowing</a>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  </em>
+  
+  
+  
+</p>
 
-###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
 
-###
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Enrique53xD/Enrique53xD/output/snake.svg" alt="Snake animation" />
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-###
+```swift
+struct Enrique53xD {
+  let pronouns: String
+  let code: [String]
+  let ides: [String]
+  let challenge: String
+  let videogames: [String]
+}
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4lk7r9kx7z23339wyehcuxz7m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=4lk7r9kx7z23339wyehcuxz7m&redirect=true)
+let saul = Enrique53xD(
+  pronouns: "he" | "him",
+  code: ["Swift", "Python", "HTML", "CSS", "JavaScript", "C#"],
+  ides: ["XCode", "VSCode"],
 
-<!--
-**Enrique53xD/Enrique53xD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  challenge: "I am doing the #100DaysofSwiftUI challenge"
 
-Here are some ideas to get you started:
+  videogames: ["Minecraft", "Rain World", "OneShot", "Hades"]
+)
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
