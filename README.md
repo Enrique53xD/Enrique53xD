@@ -15,10 +15,14 @@
 </a>
  
   <em >
-    Student at <a href="https://umg.edu.gt">Universidad Mariano Gálvez</a>
-    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+    Student at 
     </br>
-    Developing my Daily Planner iOS App <a href="https://github.com/Enrique53xD/Flowing">Flowing</a>
+    <a href="https://umg.edu.gt">Universidad Mariano Gálvez</a>
+    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22">
+    </br>
+    Developing my Daily Planner iOS App 
+    </br>
+    <a href="https://github.com/Enrique53xD/Flowing">Flowing</a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   </em>
   
