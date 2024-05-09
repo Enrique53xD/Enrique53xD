@@ -20,6 +20,7 @@
     <a href="https://umg.edu.gt">Universidad Mariano Gálvez</a>
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22">
     </br>
+    </br>
     Developing my Daily Planner iOS App 
     </br>
     <a href="https://github.com/Enrique53xD/Flowing">Flowing</a>
