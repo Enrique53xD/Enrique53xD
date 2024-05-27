@@ -6,14 +6,8 @@
 
 
 <p>
-  
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=4lk7r9kx7z23339wyehcuxz7m&redirect=true">
-  
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=4lk7r9kx7z23339wyehcuxz7m&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false"  align="right">
 
-  
-</a>
- 
+
   <em >
     Student at 
     </br>
