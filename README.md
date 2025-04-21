@@ -45,7 +45,7 @@ struct Enrique53xD {
 
 let saul = Enrique53xD(
   pronouns: "he" | "him",
-  code: ["Swift", "Python", "HTML", "CSS", "JavaScript", "C#"],
+  code: ["Swift", "Python", "HTML", "CSS", "JavaScript", "C#", "SQL", "XML", "JSON"],
   ides: ["XCode", "VSCode"],
 
   challenge: "I am doing the #100DaysofSwiftUI challenge"
