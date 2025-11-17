@@ -15,9 +15,9 @@
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22">
     </br>
     </br>
-    Developing my Daily Planner iOS App 
+    Visit my website: 
     </br>
-    <a href="https://github.com/Enrique53xD/Flowing">Flowing</a>
+    <a href="https://enrique53xd.com">Enrique53xD</a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   </em>
   
@@ -39,18 +39,16 @@ struct Enrique53xD {
   let pronouns: String
   let code: [String]
   let ides: [String]
-  let challenge: String
   let videogames: [String]
 }
 
 let saul = Enrique53xD(
   pronouns: "he" | "him",
-  code: ["Swift", "Python", "HTML", "CSS", "JavaScript", "C#", "SQL", "XML", "JSON"],
-  ides: ["XCode", "VSCode"],
+  code: ["Swift", "Python", "HTML", "CSS", "JavaScript", "C#", "SQL", "C++", "Flutter"],
+  ides: ["XCode", "VSCode", "Visual Studio"],
 
-  challenge: "I am doing the #100DaysofSwiftUI challenge"
 
-  videogames: ["Minecraft", "Rain World", "OneShot", "Hades"]
+  videogames: ["Minecraft", "Rain World", "Hades"]
 )
 ```
 
