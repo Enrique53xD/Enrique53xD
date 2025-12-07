@@ -1,4 +1,4 @@
-# Enrique53_xD — Engineer · Fullstack Developer
+# Enrique53_xD - Engineer · Fullstack Developer
 
 <p align="center">
 	<img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='960' height='200'><defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='%23bfbfbf' /><stop offset='1' stop-color='%23d9d9d9' /></linearGradient><filter id='glow'><feGaussianBlur stdDeviation='8' result='blur'/><feMerge><feMergeNode in='blur'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs><rect width='100%' height='100%' fill='%23070707'/><g filter='url(%23glow)'><text x='50%' y='60' font-family='Space Grotesk, system-ui, -apple-system' font-weight='600' text-anchor='middle' fill='url(%23g)' font-size='40'>Enrique53_xD</text><text x='50%' y='110' font-family='Space Grotesk, system-ui, -apple-system' text-anchor='middle' fill='%23a6a6a6' font-size='18'>Engineer · Fullstack Developer — resilient tooling & delightful systems</text></g></svg>" alt="Enrique53_xD banner"/>
