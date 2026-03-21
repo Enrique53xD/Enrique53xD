@@ -37,7 +37,7 @@ Systems Engineering student at Universidad Mariano Galvez de Guatemala.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,xcode,git,github,gitlab,vscode&theme=dark" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,apple,git,github,gitlab,vscode&theme=dark" alt="Tools" />
   </a>
 </p>
 
@@ -53,7 +53,7 @@ Systems Engineering student at Universidad Mariano Galvez de Guatemala.
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Enrique53xD&theme=onestar&no-bg=true&no-frame=true&column=6" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Enrique53xD&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 ---
