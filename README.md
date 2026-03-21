@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Hey%2C+I'm+Saúl;Backend+Developer+%7C+iOS+Builder;Shipping+software+from+Guatemala)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Hey%2C+I'm+Saúl;Backend+Developer;Shipping+software+from+Guatemala)](https://git.io/typing-svg)
 
 
 Backend-focused developer building indie apps for Apple platforms.<br>
