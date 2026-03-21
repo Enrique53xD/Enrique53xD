@@ -52,10 +52,6 @@ Systems Engineering student at Universidad Mariano Galvez de Guatemala.
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Enrique53xD&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
-
 ---
 
 <div align="center">
