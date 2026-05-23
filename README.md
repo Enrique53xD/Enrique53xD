@@ -20,8 +20,7 @@ Systems Engineering student at Universidad Mariano Galvez de Guatemala.
 
 | Project | Description |
 |---------|-------------|
-| **Verto** | File & image format converter for iOS |
-| **Zoundry** | Audio mixer for macOS |
+| **Zoundry** | Released audio mixer for macOS · [zoundrymixer.com](https://www.zoundrymixer.com) |
 | **Sthenos** | Skill-focused calisthenics training app |
 
 ---
