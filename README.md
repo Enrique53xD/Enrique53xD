@@ -21,7 +21,7 @@ Systems Engineering student at Universidad Mariano Galvez de Guatemala.
 | Project | Description |
 |---------|-------------|
 | **Zoundry** | Released audio mixer for macOS · [zoundrymixer.com](https://www.zoundrymixer.com) |
-| **Sthenos** | Skill-focused calisthenics training app (now on public bete) [TestFlight](https://testflight.apple.com/join/uSMJqgXu)|
+| **Sthenos** | Skill-focused calisthenics training app (now on public beta) [TestFlight](https://testflight.apple.com/join/uSMJqgXu)|
 
 ---
 
