@@ -29,7 +29,7 @@ Systems Engineering student at Universidad Mariano Galvez de Guatemala.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,php,swift,js,html,css&theme=dark" alt="Languages & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=swift,dotnet,php,cs,js,html,css&theme=dark" alt="Languages & Frameworks" />
   </a>
 </p>
 
